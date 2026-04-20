@@ -187,3 +187,4 @@ char path[512];
     return 0;
 }
 // Adding documentation for object storage
+// Refined integrity check comments
