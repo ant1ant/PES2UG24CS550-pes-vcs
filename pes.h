@@ -59,3 +59,4 @@ static inline const char* pes_author(void) {
 }
 
 #endif // PES_H
+// Added project-wide constants for Phase 4
