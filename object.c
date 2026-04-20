@@ -186,3 +186,4 @@ char path[512];
     free(buf);
     return 0;
 }
+// Adding documentation for object storage
