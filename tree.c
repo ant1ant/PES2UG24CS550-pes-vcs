@@ -160,3 +160,4 @@ int tree_from_index(ObjectID *id_out) {
     return 0;
 }
 // Clarifying tree serialization steps
+// Added edge case handling comments
