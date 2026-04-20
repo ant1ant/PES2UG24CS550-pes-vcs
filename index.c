@@ -52,3 +52,4 @@ int index_status(const Index *index) {
     }
     return 0;
 }
+// Binary index uses fixed-size entries for performance
