@@ -230,3 +230,4 @@ ObjectID tree_id;
     return head_update(&commit_id);
 }
 // Final check of author metadata
+// Final check of parent linkage
