@@ -229,3 +229,4 @@ ObjectID tree_id;
     // 5. Update HEAD
     return head_update(&commit_id);
 }
+// Final check of author metadata
