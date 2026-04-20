@@ -159,3 +159,4 @@ int tree_from_index(ObjectID *id_out) {
     if (buf) free(buf);
     return 0;
 }
+// Clarifying tree serialization steps
